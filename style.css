@@ -1,0 +1,53 @@
+body
+{
+  padding: 45px;
+    margin-bottom: 50px;
+    height: 500px;
+    font-size : 25px;
+    background-color: darkslategrey;
+    color: ghostwhite;
+    font-family: 'Shadows Into Light', cursive;
+   
+}
+.header_div
+  {
+
+  color:white;
+  height : 150px;
+  text-align: center;
+
+ 
+  }
+
+  .Final
+  {
+     background-color: olivedrab;
+     margin-right: 1122px;
+     margin-left: 11px;
+     
+  }
+
+
+  .copy_right_footer {
+   
+   color: #6c757d;
+   bottom: 0;
+   width: 100%;
+   background-color: #f5f5f5;
+   line-height: 3;
+   text-align: center;
+}
+
+.result
+{
+  font-size: 35px;
+  border: azure 3px dashed;
+  background-color: deepskyblue;
+}
+
+
+.text_and_result img
+{
+  border: honeydew 4px dashed;
+}
+
